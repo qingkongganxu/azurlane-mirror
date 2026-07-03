@@ -27,7 +27,7 @@
 <img src="img/Mod_en.jpg" width="300px"></br>
 * `Settings`: recommend enabling `Save feature preferences`
 * supporting floating icon position memory and floating icon size adjustment.
-* If you can't see the floating icon，[Click here](Question_CN.md)
+* If you can't see the floating icon，[Click here](Question_CN.md) 1
 
 # Question
 * [Click here](Question_CN.md)
